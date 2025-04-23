@@ -41,8 +41,8 @@ A modern, responsive restaurant website built with Next.js, TypeScript, and Tail
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/restaurant-website.git
-   cd restaurant-website
+   git clone https://github.com/fingersfast/flavourheaven.git
+   cd flavourheaven
    ```
 
 2. Install dependencies:
