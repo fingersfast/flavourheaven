@@ -295,7 +295,8 @@ export default function MenuPage() {
                     No matching items found
                   </h3>
                   <p className="text-gray-600">
-                    Try adjusting your filters to find what you're looking for.
+                    Try adjusting your filters to find what you&rsquo;re looking
+                    for.
                   </p>
                 </div>
               )}

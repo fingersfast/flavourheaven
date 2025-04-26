@@ -106,8 +106,8 @@ const Testimonials = () => {
             What Our Guests Say
           </h2>
           <p className="text-gray-600 max-w-2xl mx-auto">
-            Don't just take our word for it. Here's what our valued customers
-            have to say about their dining experience at Flavor Haven.
+            Don&rsquo;t just take our word for it. Here&rsquo;s what our valued
+            customers have to say about their dining experience at Flavor Haven.
           </p>
         </div>
 

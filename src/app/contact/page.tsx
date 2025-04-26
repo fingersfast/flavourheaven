@@ -68,8 +68,8 @@ export default function ContactPage() {
         <div className="text-center mb-12">
           <h1 className="text-4xl md:text-5xl font-bold mb-4">Contact Us</h1>
           <p className="text-gray-600 max-w-2xl mx-auto">
-            Have questions or feedback? We'd love to hear from you. Reach out to
-            us using the form below or visit us at our location.
+            Have questions or feedback? We&rsquo;d love to hear from you. Reach
+            out to us using the form below or visit us at our location.
           </p>
         </div>
 
@@ -267,8 +267,8 @@ export default function ContactPage() {
                   Message Sent!
                 </h3>
                 <p className="text-green-700 mb-6">
-                  Thank you for reaching out to us. We'll get back to you as
-                  soon as possible.
+                  Thank you for reaching out to us. We&rsquo;ll get back to you
+                  as soon as possible.
                 </p>
                 <button
                   onClick={() => setIsSuccess(false)}
