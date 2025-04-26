@@ -1,3 +1,5 @@
+<<<<<<< HEAD
+
 # Flavor Haven Restaurant Website
 
 A modern, responsive restaurant website built with Next.js, TypeScript, and Tailwind CSS. This project serves as a portfolio piece for local businesses, showcasing a visually appealing design with best practices for performance and accessibility.
@@ -41,8 +43,8 @@ A modern, responsive restaurant website built with Next.js, TypeScript, and Tail
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/fingersfast/flavourheaven.git
-   cd flavourheaven
+   git clone https://github.com/yourusername/restaurant-website.git
+   cd restaurant-website
    ```
 
 2. Install dependencies:
@@ -109,4 +111,10 @@ This project is open source and available under the [MIT License](LICENSE).
 
 - Design inspiration from various restaurant websites
 - Icons from Heroicons
-- Font from Google Fonts
+- # Font from Google Fonts
+
+# flavourheaven
+
+Restaurant website
+
+> > > > > > > 983020d19fe770c68a282f9c40223276637d3d44

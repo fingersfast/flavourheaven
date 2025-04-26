@@ -158,7 +158,7 @@ const Testimonials = () => {
                 </div>
 
                 <p className="text-gray-600 italic mb-4">
-                  "{testimonial.quote}"
+                  &quot;{testimonial.quote}&quot;
                 </p>
                 <p className="text-gray-400 text-sm">{testimonial.date}</p>
               </div>
@@ -203,7 +203,7 @@ const Testimonials = () => {
               </div>
 
               <p className="text-gray-600 italic mb-4">
-                "{testimonials[activeIndex].quote}"
+                &quot;{testimonials[activeIndex].quote}&quot;
               </p>
               <p className="text-gray-400 text-sm">
                 {testimonials[activeIndex].date}

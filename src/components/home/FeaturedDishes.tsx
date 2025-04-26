@@ -41,8 +41,8 @@ const FeaturedDishes = () => {
             Our Signature Dishes
           </h2>
           <p className="text-gray-600 max-w-2xl mx-auto">
-            Discover our chef's carefully crafted specialties, made with the
-            finest ingredients and passion for culinary excellence.
+            Discover our chef&apos;s carefully crafted specialties, made with
+            the finest ingredients and passion for culinary excellence.
           </p>
         </div>
 

@@ -207,9 +207,6 @@ export default function ReservationsPage() {
     }
   };
 
-  // Get today's date in YYYY-MM-DD format for min date attribute
-  const today = new Date().toISOString().split("T")[0];
-
   // Initialize current month to current month on first load
   useEffect(() => {
     setCurrentMonth(new Date());
@@ -250,7 +247,7 @@ export default function ReservationsPage() {
                   Reservation Confirmed!
                 </h3>
                 <p className="text-green-700 mb-4">
-                  Thank you for your reservation. We've sent a confirmation
+                  Thank you for your reservation. We&apos;ve sent a confirmation
                   email with all the details.
                 </p>
                 <button
